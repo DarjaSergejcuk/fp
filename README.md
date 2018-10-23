@@ -8,6 +8,6 @@ Fork and then:
 
 ```sh
 cd fp
-yarn install
+npn install
 gatsby develop
 ```
