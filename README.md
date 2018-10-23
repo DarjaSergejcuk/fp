@@ -8,6 +8,6 @@ Fork and then:
 
 ```sh
 cd fp
-npn install
+npminstall
 gatsby develop
 ```
